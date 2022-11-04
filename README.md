@@ -14,10 +14,10 @@ Pangenomic methods allow us to relate all genomes or sequences in our analysis d
 ****
 
 - [Eukaryotic Pan-genome Tools and Workflows](#1)
-  - [1.PGGB-vg](#1.1)
-  - [2.Minigraph-catcus-vg](#1.2)
-  - [3.EUPAN](#1.3)
-  - [4.odgi](#1.4)
+  - [PGGB-vg](#1.1)
+  - [Minigraph-catcus-vg](#1.2)
+  - [EUPAN](#1.3)
+  - [odgi](#1.4)
   - [Tools](#1.5)
 - [Prokaryotic Pan-genome Tools and Workflows](#2)
   - [Roary](#2.1)
