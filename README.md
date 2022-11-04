@@ -1,11 +1,12 @@
-![shields](https://img.shields.io/badge/docs-Updating-orange)
-# Pan-genome
+![shields](https://img.shields.io/badge/Docs-Updating-red)
 
 :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart:
 
 :writing_hand: ***keep update and continue.*** :writing_hand:
 
 :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart:
+
+# Pan-genome
 
 ****
 Standard approaches to genome inference and analysis relate sequences to a single linear reference genome. This is efficient but has a fundamental problem: Differences from this reference are hard to observe and describe in a coherent way. Variation and sequence are separated.
