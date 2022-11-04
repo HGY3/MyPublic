@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/lh3/minigraph.svg?branch=master)](https://travis-ci.org/lh3/minigraph)
+![shields](https://img.shields.io/badge/docs-Updating-orange)
 # Pan-genome
 
 :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart: :smiley_cat: :dash: :heart:
